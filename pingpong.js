@@ -1,6 +1,6 @@
 let xBolinha = 300;
 let yBolinha = 200;
-let tamBolinha = 25;
+let  raioBolinha = tamBolinha = 25;
 
 //config velocidade bolinha
 let xvelocidadeBolinha = 6;
