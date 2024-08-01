@@ -3,12 +3,12 @@ let yBolinha = 200;
 let tamBolinha = 25;
 
 //config velocidade bolinha
-let xvelocidadeBolinha = 6;
-let yvelocidadeBolinha = 6;
+let xvelocidadeBolinha = 60;
+let yvelocidadeBolinha = 60;
 
 function setup(){
     //aqui vou criar minha "mesa"
-    createCanvas(600,400);
+    createCanvas(1000,1000);
 }
 
 function draw(){
@@ -43,3 +43,5 @@ function Borda(){
         yvelocidadeBolinha *= -1;
     }
 }
+
+\\
