@@ -43,5 +43,3 @@ function Borda(){
         yvelocidadeBolinha *= -1;
     }
 }
-
-\\
