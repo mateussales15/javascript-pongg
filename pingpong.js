@@ -11,7 +11,7 @@ function setup(){
     createCanvas(1000, 1000);
 }
 
-function draw(){
+function draw (){
     //função responsável pelo "desenho e animação da mesa"
     //aqui vou por a cor da "mesa"
     //A cor da mesa é em rgb
